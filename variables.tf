@@ -5,7 +5,7 @@ variable "cluster_name" {
   default = "terraform-cluster"
 }
 variable "kubernetes_version" {
-  default = "1.9.3-gke.0"
+  default = "1.10.7-gke.6"
 }
 variable "username" {}
 variable "password" {}
